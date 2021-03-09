@@ -1,0 +1,152 @@
+h1{
+	font-size:50px;
+	color:#F30;
+	font-family:"Waffle Regular", "Waffle Light";
+	padding-left:50px;
+	
+}
+h2{
+	font-family:"Waffle Regular", "Waffle Light";
+	font-size:36px;
+	color:#F90;
+	padding-left:50px;
+	padding-bottom:50px;
+}
+h3{
+	font-size:36px;
+	font-family:"Waffle Regular", "Waffle Light";
+	color:#000;
+	padding-left:120px;
+	}
+h4{
+	font-size:50px;
+	color:#600;
+	font-family:"Waffle Regular", "Waffle Light";
+	padding-left:50px;
+	
+}
+p{
+	font-size:36px;
+	font-family:"Waffle Regular", "Waffle Light";
+	color:#C09;
+	padding-left:120px;
+	padding-Right:120px;
+	}
+	
+p1{
+	font-size:36px;
+	font-family:"Waffle Regular", "Waffle Light";
+	color:#000;
+	padding-left:120px;
+	padding-Right:120px;
+	}
+p2{
+	font-size:36px;
+	font-family:"Waffle Regular", "Waffle Light";
+	color:#FFF;
+	padding-left:120px;
+	padding-Right:120px;
+	}
+p3{
+	font-size:36px;
+	color:#600;
+	font-family:"Waffle Regular", "Waffle Light";
+	padding-left:120px;
+	padding-Right:120px;
+	
+}
+t{ background-color:#FF8839;
+    color: white;
+  	font-size:36px;
+	font-family:"Waffle Regular", "Waffle Light";
+	color:#FFF;
+  }
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1850px;
+  position: relative;
+  margin: auto;
+}
+/* The dots/bullets/indicators */
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+.btn-group .button {
+  background-color:#F60;
+  border: none;
+  color: white;
+  padding: 15px 190px;
+  text-align: center;
+  text-decoration: none;
+  display:inline;
+  font-size: 45px;
+  font-family:"Waffle Regular", "Waffle Light";
+  cursor: pointer;
+  float: left;
+}
+
+.btn-group .button:hover {
+	background-color:#FF8839;
+}
+container {
+  position: relative;
+  width: 100%;
+}
+
+image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.container:hover .image {
+  opacity: 0.3;
+}
+*{
+ margin:0;
+ padding:0;
+ text-decoration:none;
+}
+.bt-group .button {
+  background-color:#F60;
+  border: none;
+  border-radius:80px;
+  color: white;
+  padding: inherit;
+  text-align: center;
+  text-decoration: none;
+  display:inline;
+  cursor: pointer;
+  float: left;
+}
+
+.bt-group .button:hover {
+	background-color:#FFF;
+}
+.h table tr th t p {
+	text-align: left;
+}
+.h table tr th table tr th .bt-group br {
+	text-align: right;
+}
